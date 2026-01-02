@@ -8,5 +8,6 @@ This repo only consist of screenshots of my work during my contract with **WRK.H
 
 ## Tech Stack
 - Kotlin Multiplatform (Android/iOS)
+- Jetpack Compose - Material Components
 - Firebase (Firestore and Cloud Functions)
 - UDF Architecture ([reference](https://developer.android.com/topic/architecture))

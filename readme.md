@@ -6,6 +6,14 @@ This repo only consist of screenshots of my work during my contract with **WRK.H
 
 > Occurrence runs in the background of your everyday life and lets you know when there is someone you might be interested in that is in the same vicinity. Connections are made when both parties get to see each other in real life and they agree through the app that they want to meet. 
 
+## Screenshots
+<center>
+<img src="./Auth.png" width="200">
+<img src="./Home.png" width="200">
+<img src="./Nearby Users.png" width="200">
+<img src="./Profile.png" width="200">
+</center>
+
 ## Tech Stack
 - Kotlin Multiplatform (Android/iOS)
 - Jetpack Compose - Material Components

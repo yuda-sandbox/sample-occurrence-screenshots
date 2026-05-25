@@ -8,10 +8,7 @@ This repo only consist of screenshots of my work during my contract with **WRK.H
 
 ## Screenshots
 <center>
-<img src="./Auth.png" width="200">
-<img src="./Home.png" width="200">
-<img src="./Nearby Users.png" width="200">
-<img src="./Profile.png" width="200">
+<img src="./Auth.png" width="200"> <img src="./Home.png" width="200"> <img src="./Nearby Users.png" width="200"> <img src="./Profile.png" width="200">
 </center>
 
 ## Tech Stack
